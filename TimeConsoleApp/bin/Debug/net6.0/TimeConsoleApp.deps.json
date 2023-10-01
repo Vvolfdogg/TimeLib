@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TimeConsoleApp/1.0.0": {
+        "dependencies": {
+          "TimeLib": "1.0.0"
+        },
+        "runtime": {
+          "TimeConsoleApp.dll": {}
+        }
+      },
+      "TimeLib/1.0.0": {
+        "runtime": {
+          "TimeLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TimeConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TimeLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

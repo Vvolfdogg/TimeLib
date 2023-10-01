@@ -1,0 +1,12 @@
+C:\Users\kwilc\source\repos\TimeLib\TimeLib\bin\Debug\net6.0\TimeLib.deps.json
+C:\Users\kwilc\source\repos\TimeLib\TimeLib\bin\Debug\net6.0\TimeLib.dll
+C:\Users\kwilc\source\repos\TimeLib\TimeLib\bin\Debug\net6.0\TimeLib.pdb
+C:\Users\kwilc\source\repos\TimeLib\TimeLib\obj\Debug\net6.0\TimeLib.csproj.AssemblyReference.cache
+C:\Users\kwilc\source\repos\TimeLib\TimeLib\obj\Debug\net6.0\TimeLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kwilc\source\repos\TimeLib\TimeLib\obj\Debug\net6.0\TimeLib.AssemblyInfoInputs.cache
+C:\Users\kwilc\source\repos\TimeLib\TimeLib\obj\Debug\net6.0\TimeLib.AssemblyInfo.cs
+C:\Users\kwilc\source\repos\TimeLib\TimeLib\obj\Debug\net6.0\TimeLib.csproj.CoreCompileInputs.cache
+C:\Users\kwilc\source\repos\TimeLib\TimeLib\obj\Debug\net6.0\TimeLib.dll
+C:\Users\kwilc\source\repos\TimeLib\TimeLib\obj\Debug\net6.0\refint\TimeLib.dll
+C:\Users\kwilc\source\repos\TimeLib\TimeLib\obj\Debug\net6.0\TimeLib.pdb
+C:\Users\kwilc\source\repos\TimeLib\TimeLib\obj\Debug\net6.0\ref\TimeLib.dll
